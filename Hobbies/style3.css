@@ -1,0 +1,10 @@
+body{background-color: aquamarine;}
+header{color: blue;text-align:center;font-weight: bold;font-size: xx-large;}
+button{color: black;justify-content: center;padding: 15px 32px;text-align: center;display: inline-block;font-size: 16px;background-color: blueviolet;}
+div{align-items: center;}
+h1{color: blue;text-align: center;font-weight: bold;font-size: x-large;}
+details{color: black;font-size: large;align-items: center;}
+summary{align-items: center;color: #000;font-size: large;}
+img{display: block;;margin-left: auto;margin-right: auto;}
+a{color: black;}
+footer{color: black;text-align: center;}

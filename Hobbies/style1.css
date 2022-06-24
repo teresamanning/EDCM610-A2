@@ -1,0 +1,11 @@
+body{background-color: aquamarine;}
+header{color: black;text-align:center;font-weight: bold;font-size: xx-large;}
+button{color: antiquewhite;justify-content: center;padding: 15px 32px;text-align: center;display: inline-block;font-size: 16px;background-color: blueviolet;}
+div{align-items: center;}
+h1{color: black;text-align: center;font-weight: bold;font-size: x-large;}
+details{color: #000;font-size: large;align-items: center;}
+summary{align-items: center;color: #000;font-size: large;}
+img{display: block;;margin-left: auto;margin-right: auto;}
+a{color: blueviolet;}
+footer{color: black;text-align: center;}
+ 
